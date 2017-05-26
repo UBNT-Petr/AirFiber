@@ -398,5 +398,5 @@
     "YES": "Ano",
     "YOU_ARE_USING_DEFAULT_PASSWORD": "Používáte výchozí administrátorské heslo!",
     "YOU_HAVE_THE_LATEST_AVAILABLE_FIRMWARE_VERSION": "Je použita nejnovější verze firmwaru",
-    "READ_ONLY_AND_ADMIN_USERNAME_CANT_MATCH": "Uživatelské jméno s právy pro čtení se nesmí shodovat s uživatelským jménem administrátora",
+    "READ_ONLY_AND_ADMIN_USERNAME_CANT_MATCH": "Uživatelské jméno s právy pro čtení se nesmí shodovat s uživatelským jménem administrátora"
 }
